@@ -1,0 +1,98 @@
+head{
+
+	background-color: #fff;
+}
+
+
+body{
+
+	background-color: #fff;
+	font-family: Lato;
+	font-size: 20px;
+	color: #c1c1c1;
+	font-style: italic;
+	letter-spacing: .05em;
+
+}
+
+
+.container-title{
+
+	max-width: 100%;
+	margin: 0;
+	padding-top: 230px;
+	text-align: center;
+		
+}
+
+.intro-page-title{
+
+	font-size: 60px;
+	margin-bottom: 10px;
+	letter-spacing: 0.05em;
+	color: #a3a3a3;
+}
+
+.page-title{
+
+	letter-spacing: 0.05em;
+	font-size: 35px;
+	color: #a3a3a3;
+}
+
+.ipt-pink{
+	color: pink;
+}
+
+.intro-page-mission{
+
+	margin-top: 10px;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 0.27em;
+	color: #d9d9d9;
+	padding-left: 20px;
+	margin-bottom: 40px;
+
+}
+
+.container{
+
+	max-width: 900px;
+	margin: 0;
+	padding-top: 230px;
+	text-align: left;
+	padding-left: 150px;
+}
+
+.button{
+
+	background-color: pink;
+	border-radius: 10px;
+	height: 30px;
+	margin: auto;
+	text-align: center;
+	margin: auto;
+	width: 130px;
+	color: white;
+	letter-spacing: .1em;
+	text-transform: lowercase;
+	text-decoration: none;
+
+}
+
+.button-text{
+
+	color: white;
+	text-transform: lowercase;
+	letter-spacing: .1em;
+	padding-top: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.button-container{
+
+	margin: 0;
+	
+}
