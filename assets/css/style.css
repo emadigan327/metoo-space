@@ -1,0 +1,129 @@
+
+body{
+
+	font-size: 18px;
+	color: #c9c9c9;
+	font-family: Lato;
+	line-height: 30px;
+	text-align: left;
+}
+
+.button-bg{
+
+	background-color: pink;
+	height: 50px;
+	width: 8px;
+}
+
+.link-button{
+
+	color: white;
+	background-color: pink;
+	text-decoration: none;
+	border: 3px solid #fff;
+	padding: 10px 30px;
+	border-radius: 30px;
+	text-transform: uppercase;
+
+}
+
+.caption{
+
+	font-size: 14px;
+	font-style: italic;
+	color: #c9c9c9;
+}
+
+.container-intro {
+
+	max-width: 100%;
+	height: 250px;
+	text-align: center;
+	margin: 0;
+	padding-top: 205px;
+
+}
+
+.container-intro p{
+
+	padding-top: 0px;
+    padding-bottom: 20px}
+
+
+.ipt-pink{
+
+	color: pink;
+
+}
+
+.ipt-grey{
+
+	font-style: bold;
+	text-decoration: underline;
+}
+
+.intro-title{
+
+  	font-size: 65px;
+  	font-family: "Lato";
+  	color: rgb(201, 201, 201);
+  	line-height: 1.2;
+  	text-align: center;
+  	text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  	letter-spacing: 2px;
+  	margin-bottom: 0px;
+
+
+}
+
+.intro-subtitle{
+
+  	font-size: 20px;
+  	font-family: "Lato";
+	color: rgb(201, 201, 201);
+	text-transform: uppercase;
+	text-align: center;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.16);
+	letter-spacing: 4px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+	padding-top: 5px;
+
+}
+
+.container-mission {
+
+	max-width: 100%;
+	height: 250px;
+	text-align: left;
+	margin: 0;
+	padding-top: 205px;
+	padding-left: 240px;
+
+
+}
+
+.mission-title{
+
+	font-size: 50px;
+  	font-family: "Lato";
+  	color: rgb(201, 201, 201);
+  	line-height: 1.2;
+  	text-align: left;
+  	text-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  	letter-spacing: 2px;
+  	margin-bottom: 5px;
+  	padding-bottom: 10px;
+
+}
+
+.mission-sub{
+
+	max-width: 900px;
+	padding-bottom: 30px;
+}
+
+
+
+
+
